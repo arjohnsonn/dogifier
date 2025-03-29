@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Dogifier",
+  "version": "1.0.0",
+  "description": "An extension that adds dogs to your images",
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "./icon128.png"
+  },
+  "permissions": [],
+  "icons": {
+    "128": "./icon128.png"
+  }
+}
