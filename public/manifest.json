@@ -1,8 +1,9 @@
 {
   "manifest_version": 3,
   "name": "Dogifier",
+  "author": "Aiden Johnson",
   "version": "1.0.0",
-  "description": "An extension that adds dogs to your images",
+  "description": "An extension that adds dogs to your images. Made as a trial run for an internship position at YourMove.AI",
   "action": {
     "default_popup": "index.html",
     "default_icon": "./icon128.png"
