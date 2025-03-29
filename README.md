@@ -2,6 +2,9 @@
 
 An extension that adds dogs to your images. Made as a trial run for an internship position at YourMove.AI
 
+<img width="333" alt="SCR-20250329-otia" src="https://github.com/user-attachments/assets/777d6a9f-4fea-45f2-9b96-dbf1dfb719aa" />
+<img width="335" alt="SCR-20250329-otvt" src="https://github.com/user-attachments/assets/1c66149a-a88a-4afc-b00f-f959572c459d" />
+
 ## Techstack
 
 - React
@@ -32,4 +35,4 @@ An extension that adds dogs to your images. Made as a trial run for an internshi
 
 ## Developing
 
-You don't have to build every time you want to see a change happen. Simply run `pnpm run dev` and the extension popup will be within a webpage hosted locally.
+You don't have to build every time you want to see a change happen. Simply run `pnpm run dev` and the extension popup will be within a webpage hosted locally. Changes will automatically update within the page.
