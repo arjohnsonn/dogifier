@@ -1,5 +1,5 @@
 import { useState } from "react";
-import pawPrint from "./assets/paw-print.svg";
+import pawPrint from "./icons/paw-print.svg";
 import Button from "./components/Button";
 import { OrbitProgress } from "react-loading-indicators";
 import submitImage from "./utils/submitImage";
